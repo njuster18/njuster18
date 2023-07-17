@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my master's degree in Nanjing University of Science&Technology.
+- 🔭 I’m currently working on my master's degree in Mechatronic engineering, Nanjing University of Science&Technology.
 - 📫 How to reach me: Please contact me via honxynjust@gmail.com if you're interested in my sharing.😄
 <!--
 **njuster18/njuster18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
